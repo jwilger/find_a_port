@@ -10,6 +10,7 @@ group :development do
   gem "yard", "~> 0.7"
   gem "rdoc", "~> 3.12"
   gem "bundler"
+  gem 'redcarpet'
   gem "jeweler", "~> 1.8.3"
   gem "reek", "~> 1.2.8"
 end
