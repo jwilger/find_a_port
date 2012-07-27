@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "find_a_port"
-  s.version = "1.0.0"
+  s.version = "1.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["John Wilger"]
-  s.date = "2012-05-23"
+  s.date = "2012-07-27"
   s.description = "Use a TCPServer hack to find an open TCP port"
   s.email = "johnwilger@gmail.com"
   s.extra_rdoc_files = [
@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "find_a_port.gemspec",
     "lib/find_a_port.rb"
   ]
   s.homepage = "http://github.com/jwilger/find_a_port"
