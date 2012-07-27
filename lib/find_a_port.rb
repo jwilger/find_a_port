@@ -1,3 +1,5 @@
+require 'socket'
+
 # Provides a utility to find an available TCP port on the local machine.
 module FindAPort
   # Returns an available port number on the local machine
