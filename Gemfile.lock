@@ -31,7 +31,7 @@ GEM
     ruby_parser (2.3.1)
       sexp_processor (~> 3.0)
     sexp_processor (3.2.0)
-    yard (0.8.1)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
@@ -43,4 +43,4 @@ DEPENDENCIES
   redcarpet
   reek (~> 1.2.8)
   rspec (~> 2.8.0)
-  yard (~> 0.7)
+  yard (~> 0.9)
